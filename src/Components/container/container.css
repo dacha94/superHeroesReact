@@ -1,0 +1,11 @@
+
+div.app-container {
+    margin: 0 auto;
+    padding: 24px;
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 2vw;
+    row-gap: 4vw;
+    justify-content: center;
+    white-space: pre-line;
+    }
